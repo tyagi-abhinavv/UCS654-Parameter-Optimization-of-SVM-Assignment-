@@ -1,1 +1,0 @@
-# UCS654-Parameter-Optimization-of-SVM-Assignment-
